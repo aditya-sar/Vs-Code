@@ -1,0 +1,19 @@
+"editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "storage.type",
+                    "variable.parameter",
+                    "parameters variable.function",
+                    "support.type",
+                    "storage.modifier",
+                    "entity.other.inherited-class",
+                    "entity.other.attribute-name",
+                    "comment"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    }
